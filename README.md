@@ -33,3 +33,9 @@ The linear regression script reads a CSV file containing salary data and perform
 5. **Model Evaluation:** Calculates the mean squared error (MSE) to evaluate the performance of the model.
 
 6. **Visualization:** Visualizes both the training and testing data along with the regression line to observe the relationship between years of experience and salary.
+
+VIDEO LINK: [https://drive.google.com/file/d/185yqQ8tGol32lz3LCsh3LxRpGjvTGXYO/view?usp=sharing]
+
+AUTHOR:
+JUHAIZA KHAN
+700757258
